@@ -6,16 +6,16 @@
       "newline": false,
       "segments": [
         {
-          "foreground": "#FFEE58",
+          "foreground": "#757575",
           "style": "plain",
-          "template": " \uf0e7",
-          "type": "root"
+          "template": "\u250c ",
+          "type": "text"
         },
         {
-          "foreground": "#ffffff",
+          "foreground": "#FFEE58",
           "style": "plain",
-          "template": " NJH ",
-          "type": "session"
+          "template": "\uf0e7 ",
+          "type": "root"
         },
         {
           "background": "#25520b",
@@ -70,13 +70,13 @@
         {
           "foreground": "#757575",
           "style": "plain",
-          "template": "\u2514 ",
+          "template": "\u2514",
           "type": "text"
         },
         {
           "foreground": "#ffffff",
           "style": "plain",
-          "template": "$",
+          "template": " $",
           "type": "text"
         }
       ],
